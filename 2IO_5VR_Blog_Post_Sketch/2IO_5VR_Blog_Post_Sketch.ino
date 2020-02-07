@@ -1,6 +1,6 @@
 /*
  *  Author:     Brahim Daouas (support@robotshop.com)
- *  Version:    1.0.0
+ *  Version:    1.0.1
  *  Licence:    LGPL-3.0 (GNU Lesser General Public License version 3)
  *  
  *  Desscription: Example showing the functionalities of the LSS-2IO in Arduino and 2RC Modes.
